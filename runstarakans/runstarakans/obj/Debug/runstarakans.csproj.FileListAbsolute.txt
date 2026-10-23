@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\runstarakans\runstarakans\bin\Debug\runstarakans.exe.config
+C:\Users\student\source\repos\runstarakans\runstarakans\bin\Debug\runstarakans.exe
+C:\Users\student\source\repos\runstarakans\runstarakans\bin\Debug\runstarakans.pdb
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.Form1.resources
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.Properties.Resources.resources
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.csproj.GenerateResource.cache
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.exe
+C:\Users\student\source\repos\runstarakans\runstarakans\obj\Debug\runstarakans.pdb
